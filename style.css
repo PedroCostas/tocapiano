@@ -8,6 +8,7 @@ body{
 
 .conteiner{
     display: flex;
+    position: relative;
 }
 
 .key{
@@ -31,17 +32,17 @@ body{
 
 
 [data-note="C#4"]{
-    left: 450px;
+    left: 40px;
 }
 [data-note="D#4"]{
-    left: 500px;
+    left: 90px;
 }
 [data-note="F#4"]{
-    left: 640px;
+    left: 195px;
 }
 [data-note="G#4"]{
-    left: 680px;
+    left: 250px;
 }
 [data-note="A#4"]{
-    left: 730px;
+    left: 295px;
 }
