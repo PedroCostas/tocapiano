@@ -12,7 +12,7 @@ Web de practicas que permite tocar el piano con ratón y teclado
 
 ## deploy
 
-https://kant003.github.io/tocapiano/
+https://PedroCostas.github.io/tocapiano/
 
 
 ## comandos
