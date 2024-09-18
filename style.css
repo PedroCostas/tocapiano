@@ -31,17 +31,17 @@ body{
 
 
 [data-note="C#4"]{
-    left: 40px;
+    left: 450px;
 }
 [data-note="D#4"]{
-    left: 90px;
+    left: 500px;
 }
 [data-note="F#4"]{
-    left: 130px;
+    left: 540px;
 }
 [data-note="G#4"]{
-    left: 170px;
+    left: 580px;
 }
 [data-note="A#4"]{
-    left: 220px;
+    left: 630px;
 }
